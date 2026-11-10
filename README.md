@@ -15,6 +15,7 @@ JavaScript
 |-----------|------------|
 | Compare the Triplets | Easy |
 | A Very Big Sum | Easy |
+| Oussama | Easy|
 🌱 Progress
 
 Learning and improving one challenge at a time!
