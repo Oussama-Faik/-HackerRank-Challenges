@@ -1,28 +1,22 @@
 HackerRank Challenges 🚀
 
-Welcome to my HackerRank Challenges repository!
-
-This repository contains my solutions to coding challenges from HackerRank, using JavaScript.
+My solutions to HackerRank coding challenges using JavaScript.
 
 🎯 Goals
-Improve my problem-solving skills.
+Improve problem-solving skills.
 Practice algorithms and data structures.
-Strengthen my JavaScript knowledge.
+Improve JavaScript skills.
 Track my programming progress.
-💻 Programming Language
+💻 Language
 JavaScript
-📂 Challenges
-Challenge	Difficulty	Topic
-Compare the Triplets	Easy	Problem Solving
-A Very Big Sum	Easy	Problem Solving
-📚 My Learning Journey
+📚 Challenges
+Challenge	Difficulty
+Compare the Triplets	Easy
+A Very Big Sum	Easy
+🌱 Progress
 
-I'm solving HackerRank challenges step by step to improve my coding skills and become a better programmer.
-
-Each solution represents a new challenge and a new learning experience.
+Learning and improving one challenge at a time!
 
 🔗 Profile
 
-My HackerRank Profile
-
-⭐ Thanks for visiting my repository!
+HackerRank
