@@ -9,10 +9,12 @@ Improve JavaScript skills.
 Track my programming progress.
 💻 Language
 JavaScript
-📚 Challenges
-Challenge	Difficulty
-Compare the Triplets	Easy
-A Very Big Sum	Easy
+## 📚 Challenges
+
+| Challenge | Difficulty |
+|-----------|------------|
+| Compare the Triplets | Easy |
+| A Very Big Sum | Easy |
 🌱 Progress
 
 Learning and improving one challenge at a time!
